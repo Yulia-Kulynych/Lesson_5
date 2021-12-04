@@ -1,0 +1,13 @@
+
+.flex-container{
+	display: flex;
+	flex-direction:row;
+    width: 500px;	
+	
+}
+[class|="Flex-item"]{
+	border: solid 1px black;
+	margin: 5px;
+	flex-basis: 125px;
+}
+
